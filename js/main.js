@@ -45,7 +45,7 @@ const pinturaRobotron = [
         src: "img/Robotron 2000 - Branco.png"
     },
     {   cor: "preto",
-        src: "img/Robotron 2000 - preto.png"
+        src: "img/Robotron 2000 - Preto.png"
     },
     {   cor: "rosa",
         src: "img/Robotron 2000 - Rosa.png"
